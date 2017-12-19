@@ -1,8 +1,8 @@
 [submodule "Plugins/UROSBridge"]
 	path = Plugins/UROSBridge
-	url = https://github.com/robcog-iai/UROSBridge
+	url = https://github.com/NeumannM89/UROSBridge
 	branch = master
 [submodule "Plugins/URoboSim"]
 	path = Plugins/URoboSim
-	url = https://github.com/robcog-iai/URoboSim
+	url = https://github.com/NeumannM89/URoboSim
 	branch = master
